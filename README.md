@@ -1,1 +1,1 @@
-# lunch-review
+npm run start
